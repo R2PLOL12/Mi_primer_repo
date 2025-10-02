@@ -8,14 +8,14 @@
     border-radius: 20px;
     margin: 30px auto;
     box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.5);
-    background: #14c0eb;
+    background: #0072a7;
     color: #ffff;
 }
 
 #cabecera{
     text-align: center;
     font-size: 12px;
-    background: #1446eb;
-    color: #ffff;
+    background: #eb1478;
+    color: #ffe7e7;
     border-radius: 10px;
 }
