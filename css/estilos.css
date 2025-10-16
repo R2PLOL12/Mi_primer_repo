@@ -1,21 +1,32 @@
-#container{
-    width: 70%;
-    text-align: left;
-    font-family: Arial;
-    font-size: 26px;
-    padding: 10px 10px 10px 10px;
-    border: 1px solid #bababa;
-    border-radius: 20px;
-    margin: 30px auto;
-    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.5);
-    background: #0072a7;
-    color: #ffff;
-}
-
-#cabecera{
+body{
+    color: #333;
     text-align: center;
-    font-size: 12px;
-    background: #eb1478;
-    color: #ffe7e7;
-    border-radius: 10px;
+    font-family: "arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabecera{
+    background: #33A;
+    color: white;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container{
+    width: 60%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #bababa;
+    margin: 0 auto;
+
+}
+#container h1{
+    font-size: 20px;
 }
