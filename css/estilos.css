@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #002c50;
 }
 #cabecera{
     background: #33A;
@@ -25,8 +26,20 @@ body{
     text-align: left;
     border: 1px solid #bababa;
     margin: 0 auto;
+    color:#bababa;
 
 }
 #container h1{
     font-size: 20px;
+    color:white;
+}
+#footer{
+    background: #33A;
+    width: 60%;
+    text-align: left;
+    padding: 1em;
+    color:white;
+    margin: 0 auto;
+    height: 150px;
+    border: 1px solid gray;
 }
