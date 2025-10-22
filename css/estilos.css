@@ -34,12 +34,12 @@ body{
     color:white;
 }
 #footer{
-    background: #33A;
+    background: rgb(80, 80, 102);
     width: 60%;
-    text-align: left;
+    text-align: center;
     padding: 1em;
     color:white;
     margin: 0 auto;
-    height: 150px;
-    border: 1px solid gray;
+    height: 20px;
+    border: 1px solid rgb(170, 170, 170);
 }
